@@ -35,3 +35,5 @@ We can also add another override mechanism for localization:
 - `i18n/app/web/en.json`
 - `i18n/app/web/en-NL.json` <-- only contains NL specific strings
 - `i18n/app/web/en-DE.json` <-- only contains DE specific strings
+
+We also need to add a `test` language for stable regression testing.
